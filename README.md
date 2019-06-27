@@ -4,6 +4,9 @@
 
 [Extreme poverty - Our word in data](https://ourworldindata.org/extreme-poverty)
 
+`jupyter nbconvert --to html --template hidecode YourNotebook.ipynb`
+
+
 ### Infos
 
 * Intervalo dos anos analisados [1981-2017]
